@@ -4,3 +4,4 @@ class HomeController {
         require_once '../app/Views/User/homepage.php';
     }
 }
+
