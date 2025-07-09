@@ -5,3 +5,10 @@ class HomeController {
     }
 }
 
+class ProductController {
+    public function product() {
+        require_once '../app/Views/User/productpage.php';
+    }
+}
+
+
