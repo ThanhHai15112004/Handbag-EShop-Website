@@ -1,2 +1,4 @@
 <?php
-require_once '../routes/web.php';
+session_start();
+
+require_once __DIR__ . '/../routes/index.php';

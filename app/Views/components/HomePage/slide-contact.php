@@ -1,0 +1,33 @@
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 wow fadeIn" data-wow-delay=".3s">
+                <div class="subscribe style1 flex items-center radius-20 gradient-6">
+                    <div class="icon">
+                        <img class="ring" src="assets/images/icon/ring.png" alt="">
+                    </div>
+                    <div class="content">
+                        <h4 class="mb-12 text-spacing-0_5">Đăng ký nhận tin & khuyến mãi từ chúng tôi</h4>
+                        <p class="white">Chúng tôi cam kết không gửi thư rác đến hộp thư của bạn.</p>
+                    </div>
+                    <div class="form">
+                        <form action="#">
+                            <input type="text" name="inp" placeholder="Email của bạn..." required="">
+                            <button>
+                                <svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+                                    xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0"
+                                    viewBox="0 0 24 24" style="enable-background: new 0 0 512 512" xml:space="preserve">
+                                    <g>
+                                        <path fill="#000000"
+                                            d="M22.101 10.562 2.753 1.123A1.219 1.219 0 0 0 1 2.22v.035a2 2 0 0 0 .06.485l1.856 7.424a.5.5 0 0 0 .43.375l8.157.907a.559.559 0 0 1 0 1.11l-8.157.907a.5.5 0 0 0-.43.375L1.06 21.261a2 2 0 0 0-.06.485v.035a1.219 1.219 0 0 0 1.753 1.096L22.1 13.438a1.6 1.6 0 0 0 0-2.876z"
+                                            data-original="#000000"></path>
+                                    </g>
+                                </svg>
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
